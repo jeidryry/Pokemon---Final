@@ -1,0 +1,26 @@
+C:\Users\Clyde\Downloads\FINAL PROJECT\bin\Debug\FINAL PROJECT.exe.config
+C:\Users\Clyde\Downloads\FINAL PROJECT\bin\Debug\FINAL PROJECT.exe
+C:\Users\Clyde\Downloads\FINAL PROJECT\bin\Debug\FINAL PROJECT.pdb
+C:\Users\Clyde\Downloads\FINAL PROJECT\obj\Debug\FINAL PROJECT.csproj.AssemblyReference.cache
+C:\Users\Clyde\Downloads\FINAL PROJECT\obj\Debug\FINAL_PROJECT.Form1.resources
+C:\Users\Clyde\Downloads\FINAL PROJECT\obj\Debug\FINAL_PROJECT.Properties.Resources.resources
+C:\Users\Clyde\Downloads\FINAL PROJECT\obj\Debug\FINAL PROJECT.csproj.GenerateResource.cache
+C:\Users\Clyde\Downloads\FINAL PROJECT\obj\Debug\FINAL PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\Clyde\Downloads\FINAL PROJECT\obj\Debug\FINAL PROJECT.exe
+C:\Users\Clyde\Downloads\FINAL PROJECT\obj\Debug\FINAL PROJECT.pdb
+C:\Users\Clyde\Downloads\FINAL PROJECT\obj\Debug\FINAL_PROJECT.Form2.resources
+C:\Users\Clyde\Downloads\FINAL PROJECT\obj\Debug\FINAL_PROJECT.HTP.resources
+C:\Users\Clyde\Downloads\FINAL PROJECT\obj\Debug\FINAL_PROJECT.Settings.resources
+C:\Users\Admin\Downloads\POKEMON\FINAL PROJECT\bin\Debug\FINAL PROJECT.exe.config
+C:\Users\Admin\Downloads\POKEMON\FINAL PROJECT\bin\Debug\FINAL PROJECT.exe
+C:\Users\Admin\Downloads\POKEMON\FINAL PROJECT\bin\Debug\FINAL PROJECT.pdb
+C:\Users\Admin\Downloads\POKEMON\FINAL PROJECT\obj\Debug\FINAL PROJECT.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\POKEMON\FINAL PROJECT\obj\Debug\FINAL_PROJECT.MainMenu.resources
+C:\Users\Admin\Downloads\POKEMON\FINAL PROJECT\obj\Debug\FINAL_PROJECT.Choose.resources
+C:\Users\Admin\Downloads\POKEMON\FINAL PROJECT\obj\Debug\FINAL_PROJECT.HTP.resources
+C:\Users\Admin\Downloads\POKEMON\FINAL PROJECT\obj\Debug\FINAL_PROJECT.Properties.Resources.resources
+C:\Users\Admin\Downloads\POKEMON\FINAL PROJECT\obj\Debug\FINAL PROJECT.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\POKEMON\FINAL PROJECT\obj\Debug\FINAL PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\POKEMON\FINAL PROJECT\obj\Debug\FINAL PROJECT.exe
+C:\Users\Admin\Downloads\POKEMON\FINAL PROJECT\obj\Debug\FINAL PROJECT.pdb
+C:\Users\Admin\Downloads\POKEMON\FINAL PROJECT\obj\Debug\FINAL_PROJECT.MainGame.resources
